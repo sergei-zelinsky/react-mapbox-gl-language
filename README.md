@@ -5,6 +5,11 @@ This package is a simple binding of [mapbox-gl-language](https://github.com/mapb
 
 It was designed to use with [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl).
 
+[![npm](https://img.shields.io/npm/v/react-mapbox-gl-language.svg)](https://www.npmjs.com/package/react-mapbox-gl-language)
+[![npm](https://img.shields.io/npm/l/react-mapbox-gl-language.svg)]()
+[![npm](https://img.shields.io/npm/dt/react-mapbox-gl-language.svg)]()
+[![GitHub stars](https://img.shields.io/github/stars/sergei-zelinsky/react-mapbox-gl-language.svg?style=social&label=Stars)]()
+
 ## Installation
 
 ```
